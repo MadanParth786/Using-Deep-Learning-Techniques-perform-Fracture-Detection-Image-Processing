@@ -47,3 +47,10 @@ Phase 5: Deployment Phase:
 
 One of our goals is to bring all of the previous steps together and put them into practice. Another goal is to deploy our model into a python-based interface application after comparing the classification reports and determining which model is best for our dataset.
 
+
+if you want the whole dataset for this project connect me on linkdin and dm me their i will definately provide the dataset :
+
+https://www.linkedin.com/in/parth-madan-51a1b5192
+
+Work Hard and do best of yourself for getting success in Life!!!!
+
